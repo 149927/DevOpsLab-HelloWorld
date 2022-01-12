@@ -6,6 +6,6 @@ int add(int x, int y)
 void main()
 {
     int ans;
-    ans = add(5,4);
+    ans = add(5,4)
     prints("Addition of nubers : %d",ans);
 }
