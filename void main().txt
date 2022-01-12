@@ -1,4 +1,4 @@
 void main()
 {
-    printf("Swati")
+    printf("Swati");
 }
